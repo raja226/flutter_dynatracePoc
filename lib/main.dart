@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
     'Report crash': _reportCrash,
     'Web Action': _webAction,
     'Report values': _reportAll,
-    'Force errors': _forceErrors,
+   'Force errors': _forceErrors,
 
 
     //'Sub Action': _subAction,
